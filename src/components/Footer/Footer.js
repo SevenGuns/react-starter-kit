@@ -36,6 +36,9 @@ export default function Footer() {
           Not Found
         </Link>
       </div>
+      <div className={s.goverment}>
+        <a href="http://www.beian.miit.gov.cn">湘ICP备15019969号</a>
+      </div>
     </div>
   );
 }

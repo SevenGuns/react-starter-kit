@@ -29,7 +29,7 @@ export default function Header() {
             height="38"
             alt="React"
           />
-          <span className={s.brandTxt}>Your Company</span>
+          <span className={s.brandTxt}>宝宝个人网</span>
         </Link>
         <div className={s.banner}>
           <h1 className={s.bannerTitle}>React</h1>

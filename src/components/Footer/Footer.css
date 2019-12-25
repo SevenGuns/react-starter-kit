@@ -45,3 +45,8 @@
 .link:hover {
   color: rgba(255, 255, 255, 1);
 }
+
+.goverment {
+  text-align: center;
+  padding: 10px 0;
+}
